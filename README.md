@@ -2,4 +2,3 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Madislol projects
-- 📫 How to reach me call your mother.
