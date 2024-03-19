@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @OPuusalu
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Madislol Inc. projects
+- 🌱 I’m currently working on improving my Java skills
